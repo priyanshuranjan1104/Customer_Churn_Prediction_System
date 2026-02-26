@@ -82,6 +82,8 @@ The system predicts customer churn with high accuracy and highlights key churn i
 * Precision & Recall
 * F1 Score
 
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
